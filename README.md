@@ -82,7 +82,7 @@ node ~/.claude/skills/arch-kb-skill/scripts/record-outcome.js \
 ## Estrutura do repositório
 
 ```
-arch-kb-skill/
+sat-architecture-kb-skill/
 ├── SKILL.md                    ← instruções para o Claude Code
 ├── config.example.json         ← template de configuração
 ├── scripts/
