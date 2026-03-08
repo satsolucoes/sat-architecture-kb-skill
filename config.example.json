@@ -1,0 +1,7 @@
+{
+  "kbPath": "~/.claude/knowledge-bases/arch-kb",
+  "kbRepo": "https://github.com/satsolucoes/sat-architecture-kb.git",
+  "autoUpdate": false,
+  "maxEntriesPerType": 10,
+  "language": "pt-BR"
+}
